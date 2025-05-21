@@ -42,7 +42,7 @@ cd automacao-tarefas-python
 
 ```bash
 python3 -m venv venv
-venv/Scripts/Activate
+venv\Scripts\activate
 ```
 
 ### 3. Instale as dependências:
