@@ -1,0 +1,29 @@
+# Ignora o ambiente virtual
+venv/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Configurações de editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de execução ou build
+*.exe
+*.out
+*.bin
